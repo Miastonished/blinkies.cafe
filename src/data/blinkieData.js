@@ -1,5 +1,19 @@
 let styleProps = {
-     '0272-disabledpride': {
+     '0273-stressed': {
+        name:"Stressed",
+        bday:20240312,
+        tags:["user","pawpr1nc3"],
+        frames:2,
+        delay:20,
+        colour:"#000000",
+        outline:"#ff7d7d",
+        font: "moonaco",
+        fontweight: "bold",
+        fontsize:9,
+        x:-1, y:0,
+        sub:"pawpr1nc3"
+    },
+    '0272-disabledpride': {
         name:"Disabled Pride",
         bday:20240130,
         tags:["user","soleil"],
